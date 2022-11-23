@@ -1,7 +1,7 @@
 # CSE 11 Fall 2022 PA8 - MyStringBuilder
 **Due date: Thursday, Dec 1 @ 11:59PM PST**
 
-There is an [FAQ](Todo) post on Piazza. Please read that post first if you have any questions.
+There is an [FAQ](https://piazza.com/class/l871flmwsqy8i/post/1202) post on Piazza. Please read that post first if you have any questions.
 
 *Note: there is no resubmission or hidden test cases for PA8.*
 ## Provided Files
